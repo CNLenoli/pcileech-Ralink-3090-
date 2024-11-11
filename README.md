@@ -1,4 +1,4 @@
-#discord
+# discord
 https://discord.gg/bfeTDKAy
 
 # pcileech-ralink
