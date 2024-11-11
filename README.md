@@ -1,3 +1,6 @@
+#discord
+https://discord.gg/bfeTDKAy
+
 # pcileech-ralink
 pcileech-fpga with wifi card emulation
 
